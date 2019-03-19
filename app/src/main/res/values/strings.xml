@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Korean Guide for Indonesian</string>
+    <string name="title_home">Attraction</string>
+    <string name="title_activity_maps">Korean Guide for Indonesian</string>
+    <string name="title_restaurant">Restaurant</string>
+    <string name="title_mosque">Mosque</string>
+    <string name="title_subway">Subway</string>
+    <string name="title_more">More</string>
+    <string name="view_button">Review about this place</string>
+    <string name="add_review">Submit</string>
+    <string name="add_data">Add review</string>
+</resources>
